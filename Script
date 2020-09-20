@@ -1,2 +1,2 @@
 //Lynda Script
-youtube-dl --cookies cookies.txt --playlist-start 1 --all-subs -o '%(playlist_index)s-%(title)s.%(ext)s' URL.html
+youtube-dl --cookies cookies.txt --playlist-start 1 --all-subs -o '%(playlist_index)s.%(title)s.%(ext)s' URL.html
